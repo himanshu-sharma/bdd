@@ -14,5 +14,5 @@ Feature: As a visitor I should able to Submit Comment
 
     Examples:
     	| comment | name | email | website | result |
-    	| this is 34 test | him 1 | test1@test.com | www.test.com | Your comment is awaiting moderation |
-        | this is 34 test | him 1 | test1@test.com | www.test.com | Duplicate comment detected; it looks as though you’ve already said that! |
+    	| this is 35 test | him 1 | test1@test.com | www.test.com | Your comment is awaiting moderation |
+        | this is 35 test | him 1 | test1@test.com | www.test.com | Duplicate comment detected; it looks as though you’ve already said that! |

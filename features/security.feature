@@ -13,8 +13,8 @@ Feature: As a visitor I should able to Submit Comment
 
     Examples:
     	| comment | name | email | website | result |
-    	| this is anti 24 test | him 24 | test24@test.com | www.test24.com | Your comment is awaiting moderation |
-        | this is anti 25 test | him 25 | test25@test.com | www.test25.com | You are posting comments too quickly. Slow down. |
+    	| this is anti 26 test | him 26 | test26@test.com | www.test26.com | Your comment is awaiting moderation |
+        | this is anti 27 test | him 27 | test27@test.com | www.test27.com | You are posting comments too quickly. Slow down. |
 
     @javascript
     Scenario: Non existing url should show standard error message
